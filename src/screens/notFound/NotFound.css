@@ -1,0 +1,21 @@
+.not-found {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.not-found_error {
+	color: red;
+	font-weight: bold;
+	font-size: 60px;
+}
+
+.not-found_home-link {
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.not-found_home-link:hover {
+	text-decoration: underline;
+}
